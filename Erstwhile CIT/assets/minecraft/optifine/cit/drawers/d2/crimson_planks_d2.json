@@ -1,0 +1,7 @@
+{
+	"parent": "./d2",
+	"textures": {
+		"0": "block/stripped_crimson_stem",
+		"1": "block/anvil"
+	}
+}

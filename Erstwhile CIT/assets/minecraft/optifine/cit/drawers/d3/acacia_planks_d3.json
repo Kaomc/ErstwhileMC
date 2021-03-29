@@ -1,0 +1,7 @@
+{
+	"parent": "./d3",
+	"textures": {
+		"0": "block/stripped_acacia_log",
+		"1": "block/anvil"
+	}
+}

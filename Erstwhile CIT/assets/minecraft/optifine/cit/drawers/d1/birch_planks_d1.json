@@ -1,0 +1,7 @@
+{
+	"parent": "./d1",
+	"textures": {
+		"0": "block/stripped_birch_log",
+		"1": "block/anvil"
+	}
+}

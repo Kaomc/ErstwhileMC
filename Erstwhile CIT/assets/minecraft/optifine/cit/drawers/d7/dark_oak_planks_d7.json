@@ -1,0 +1,7 @@
+{
+	"parent": "./d7",
+	"textures": {
+		"0": "block/stripped_dark_oak_log",
+		"1": "block/dark_oak_log"
+	}
+}

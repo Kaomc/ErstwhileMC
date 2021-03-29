@@ -1,0 +1,13 @@
+{
+	"parent": "./d6",
+	"textures": {
+		"0": "./block/stripped_birch_log",
+		"1": "./block/acacia_log",
+		"2": "./map/map_background",
+		"3": "./painting/courbet",
+		"4": "./painting/sea",
+		"5": "./painting/sunset",
+		"6": "./painting/creebet",
+		"8": "./painting/donkey_kong"
+	}
+}
