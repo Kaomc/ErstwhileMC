@@ -1,13 +1,13 @@
 {
 	"parent": "./d6",
 	"textures": {
-		"0": "./block/stripped_crimson_stem",
-		"1": "./block/crimson_stem",
-		"2": "./map/map_background",
-		"3": "./painting/courbet",
-		"4": "./painting/sea",
-		"5": "./painting/sunset",
-		"6": "./painting/creebet",
-		"8": "./painting/donkey_kong"
+		"0": "block/stripped_crimson_stem",
+		"1": "block/crimson_stem",
+		"2": "map/map_background",
+		"3": "painting/courbet",
+		"4": "painting/sea",
+		"5": "painting/sunset",
+		"6": "painting/creebet",
+		"8": "painting/donkey_kong"
 	}
 }

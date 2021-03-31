@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./frame",
+	"textures": {
+		"0": "block/crimson_planks_f",
+		"particle": "block/crimson_planks_f"
+	}
+}

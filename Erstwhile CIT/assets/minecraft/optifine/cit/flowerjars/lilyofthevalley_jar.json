@@ -1,0 +1,12 @@
+{
+	"parent": "./flower_jar",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "block/jars",
+		"1": "block/spruce_planks",
+		"2": "block/coarse_dirt",
+		"3": "block/lily_of_the_valley",
+		"4": "block/spawner",
+		"particle": "block/jars"
+	}
+}

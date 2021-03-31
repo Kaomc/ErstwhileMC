@@ -1,0 +1,8 @@
+{
+	"parent": "./painting_medieval",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "block/10",
+		"particle": "block/10"
+	}
+}
