@@ -1,6 +1,0 @@
-{
-	"parent": "./mushroom_chart",
-	"textures": {
-		"0": "block/mushchart2a"
-	}
-}

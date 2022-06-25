@@ -1,0 +1,9 @@
+{
+	"parent": "./nitori_chair",
+	"textures": {
+		"0": "block/acacia_planks_f",
+		"1": "block/black_wool",
+		"2": "block/anvil",
+		"particle": "block/acacia_planks_f"
+	}
+}
