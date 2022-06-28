@@ -1,9 +1,9 @@
 {
 	"textures": {
-		"0": "./block/jars",
-		"2": "./entity/lead_knot",
-		"3": "./block/h_lantern",
-		"4": "./block/anvil"
+		"0": "block/jars",
+		"2": "entity/lead_knot",
+		"3": "block/h_lantern",
+		"4": "block/anvil"
 	},
 	"elements": [
 		{

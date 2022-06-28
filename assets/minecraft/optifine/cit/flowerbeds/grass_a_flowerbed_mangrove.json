@@ -1,0 +1,15 @@
+{
+	"parent": "./grass_a_flowerbed",
+	"textures": {
+		"0": "optifine/cit/oak_sapling_4",
+		"1": "block/coarse_dirt",
+		"2": "block/stripped_mangrove_log",
+		"3": "block/mangrove_planks",
+		"4": "block/anvil",
+		"5": "block/azure_bluet",
+		"6": "block/poppy",
+		"7": "block/blue_orchid",
+		"8": "block/lily_of_the_valley",
+		"9": "block/peony_top"
+	}
+}
